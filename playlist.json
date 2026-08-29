@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Dle Yaman",
+    "artist": "Djivan Gasparyan",
+    "audio": "https://your-server.com/sounds/dle_yaman.mp3",
+    "cover": "https://your-server.com/images/cover1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Sari Aghjik",
+    "artist": "Armenian Folk",
+    "audio": "https://your-server.com/sounds/sari_aghjik.mp3",
+    "cover": "https://your-server.com/images/cover2.jpg"
+  }
+]
