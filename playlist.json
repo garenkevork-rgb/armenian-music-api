@@ -1,0 +1,702 @@
+[
+    {
+        "id": "1",
+        "title": "On a Stone or a Gospel: Celebrating Sacrifice",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianOnaStoneoraGospel_CelebratingSacrifice/Fr.VazkenMovsesianOnaStoneoraGospel_CelebratingSacrifice.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianOnaStoneoraGospel_CelebratingSacrifice"
+    },
+    {
+        "id": "2",
+        "title": "VOA [Voice of America] Africa : May 25, 2017 05:00PM-06:00PM EDT",
+        "artist": "Armenian Folk",
+        "audio": "https://archive.org/download/VOA_Africa_20170525_210000/VOA_Africa_20170525_210000.mp3",
+        "cover": "https://archive.org/services/img/VOA_Africa_20170525_210000"
+    },
+    {
+        "id": "3",
+        "title": "516 Sean Finnegan on Restoring Authentic Christianity (Tom Huszti)",
+        "artist": "Restitutio",
+        "audio": "https://archive.org/download/Restitutio-516_sean_finnegan_on_restoring_authentic_christianity_tom_huszti/Restitutio-516_sean_finnegan_on_restoring_authentic_christianity_tom_huszti.mp3",
+        "cover": "https://archive.org/services/img/Restitutio-516_sean_finnegan_on_restoring_authentic_christianity_tom_huszti"
+    },
+    {
+        "id": "4",
+        "title": "337 Bible 8 – Other New Testament Manuscripts",
+        "artist": "Restitutio",
+        "audio": "https://archive.org/download/Restitutio-337_bible_8_other_new_testament_manuscripts/Restitutio-337_bible_8_other_new_testament_manuscripts.mp3",
+        "cover": "https://archive.org/services/img/Restitutio-337_bible_8_other_new_testament_manuscripts"
+    },
+    {
+        "id": "5",
+        "title": "Apostolic Tweets: Armenian & Latin",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianApostolicTweets_Armenian_Latin/Fr.VazkenMovsesianApostolicTweets_Armenian_Latin.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianApostolicTweets_Armenian_Latin"
+    },
+    {
+        "id": "6",
+        "title": "Injuries in the Machine",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianInjuriesintheMachine_0/Fr.VazkenMovsesianInjuriesintheMachine_0.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianInjuriesintheMachine_0"
+    },
+    {
+        "id": "7",
+        "title": "No Knocks for Structure",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianNoKnocksforStructure/Fr.VazkenMovsesianNoKnocksforStructure.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianNoKnocksforStructure"
+    },
+    {
+        "id": "8",
+        "title": "The God Particle We Knew About",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianTheGodParticleWeKnewAbout/Fr.VazkenMovsesianTheGodParticleWeKnewAbout.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianTheGodParticleWeKnewAbout"
+    },
+    {
+        "id": "9",
+        "title": "CHEM OO CHEM",
+        "artist": "LIBERTY ZREHIKIAN",
+        "audio": "https://archive.org/download/78_chem-oo-chem_liberty-zrehikian_gbia0501308a/78_chem-oo-chem_liberty-zrehikian_gbia0501308a.mp3",
+        "cover": "https://archive.org/services/img/78_chem-oo-chem_liberty-zrehikian_gbia0501308a"
+    },
+    {
+        "id": "10",
+        "title": "Gurdjieff De Hartmann Music Show # 4",
+        "artist": "Dr. Jone Dae",
+        "audio": "https://archive.org/download/GurdjieffDeHartmannMusicShow4/GurdjieffDeHartmannMusicShow4.mp3",
+        "cover": "https://archive.org/services/img/GurdjieffDeHartmannMusicShow4"
+    },
+    {
+        "id": "11",
+        "title": "Chis Asoom",
+        "artist": "Yenovk Der Hagopian, Sam Haidostian",
+        "audio": "https://archive.org/download/78_chis-asoom_yenovk-der-hagopian-sam-haidostian_gbia0067247a/78_chis-asoom_yenovk-der-hagopian-sam-haidostian_gbia0067247a.mp3",
+        "cover": "https://archive.org/services/img/78_chis-asoom_yenovk-der-hagopian-sam-haidostian_gbia0067247a"
+    },
+    {
+        "id": "12",
+        "title": "Dzovig - Pink Tail Tip: Armenian Children's Party Songs",
+        "artist": "Little Seas Enterprises, Inc.",
+        "audio": "https://archive.org/download/dzovig-pink-tail-tip-armenian-childrens-party-songs/dzovig-pink-tail-tip-armenian-childrens-party-songs.mp3",
+        "cover": "https://archive.org/services/img/dzovig-pink-tail-tip-armenian-childrens-party-songs"
+    },
+    {
+        "id": "13",
+        "title": "Ser Ouneink",
+        "artist": "Yenovk Der Hagopian, S. Haidostian",
+        "audio": "https://archive.org/download/78_ser-ouneink_yenovk-der-hagopian-s-haidostian_gbia0067246b/78_ser-ouneink_yenovk-der-hagopian-s-haidostian_gbia0067246b.mp3",
+        "cover": "https://archive.org/services/img/78_ser-ouneink_yenovk-der-hagopian-s-haidostian_gbia0067246b"
+    },
+    {
+        "id": "14",
+        "title": "S1E2 Ara Dinkjian: An Armenian in America, Part 2",
+        "artist": "Armenian Music Podcast with Raffi Meneshian",
+        "audio": "https://archive.org/download/e4uieaek7piofxeyhvhpizdd72pt0xs0n5zx1k9g/e4uieaek7piofxeyhvhpizdd72pt0xs0n5zx1k9g.mp3",
+        "cover": "https://archive.org/services/img/e4uieaek7piofxeyhvhpizdd72pt0xs0n5zx1k9g"
+    },
+    {
+        "id": "15",
+        "title": "Natanas - Natanas",
+        "artist": "Natanas",
+        "audio": "https://archive.org/download/NatanasNatanas/NatanasNatanas.mp3",
+        "cover": "https://archive.org/services/img/NatanasNatanas"
+    },
+    {
+        "id": "16",
+        "title": "Giving Thanks for Blessings",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianGivingThanksforBlessings/Fr.VazkenMovsesianGivingThanksforBlessings.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianGivingThanksforBlessings"
+    },
+    {
+        "id": "17",
+        "title": "Grapes Invade Our Comfort Zone",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianGrapesInvadeOurComfortZone/Fr.VazkenMovsesianGrapesInvadeOurComfortZone.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianGrapesInvadeOurComfortZone"
+    },
+    {
+        "id": "18",
+        "title": "The Center Light is Greater than the Law & the Prophets",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianTheCenterLightisGreaterthantheLaw_theProphets/Fr.VazkenMovsesianTheCenterLightisGreaterthantheLaw_theProphets.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianTheCenterLightisGreaterthantheLaw_theProphets"
+    },
+    {
+        "id": "19",
+        "title": "Enough, Eli...",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianEnough_Eli.../Fr.VazkenMovsesianEnough_Eli....mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianEnough_Eli..."
+    },
+    {
+        "id": "20",
+        "title": "VOA [Voice of America] Africa : October 25, 2018 01:00AM-02:00AM EDT",
+        "artist": "Armenian Folk",
+        "audio": "https://archive.org/download/VOA_Africa_20181025_050000/VOA_Africa_20181025_050000.mp3",
+        "cover": "https://archive.org/services/img/VOA_Africa_20181025_050000"
+    },
+    {
+        "id": "21",
+        "title": "VOA [Voice of America] Africa : July 22, 2018 07:00AM-08:00AM EDT",
+        "artist": "Armenian Folk",
+        "audio": "https://archive.org/download/VOA_Africa_20180722_110000/VOA_Africa_20180722_110000.mp3",
+        "cover": "https://archive.org/services/img/VOA_Africa_20180722_110000"
+    },
+    {
+        "id": "22",
+        "title": "VOA [Voice of America] Africa : November 24, 2017 11:00PM-12:00AM EST",
+        "artist": "Armenian Folk",
+        "audio": "https://archive.org/download/VOA_Africa_20171125_040000/VOA_Africa_20171125_040000.mp3",
+        "cover": "https://archive.org/services/img/VOA_Africa_20171125_040000"
+    },
+    {
+        "id": "23",
+        "title": "VOA [Voice of America] Global English : March 21, 2020 12:00AM-01:00AM EDT",
+        "artist": "Armenian Folk",
+        "audio": "https://archive.org/download/VOA_Global_English_20200321_040000/VOA_Global_English_20200321_040000.mp3",
+        "cover": "https://archive.org/services/img/VOA_Global_English_20200321_040000"
+    },
+    {
+        "id": "24",
+        "title": "VOA [Voice of America] Africa : May 02, 2019 01:00AM-02:00AM EDT",
+        "artist": "Armenian Folk",
+        "audio": "https://archive.org/download/VOA_Africa_20190502_050000/VOA_Africa_20190502_050000.mp3",
+        "cover": "https://archive.org/services/img/VOA_Africa_20190502_050000"
+    },
+    {
+        "id": "25",
+        "title": "VOA [Voice of America] Global English : February 27, 2020 03:00PM-04:00PM EST",
+        "artist": "Armenian Folk",
+        "audio": "https://archive.org/download/VOA_Global_English_20200227_200000/VOA_Global_English_20200227_200000.mp3",
+        "cover": "https://archive.org/services/img/VOA_Global_English_20200227_200000"
+    },
+    {
+        "id": "26",
+        "title": "VOA [Voice of America] Africa : February 19, 2019 04:00AM-05:00AM EST",
+        "artist": "Armenian Folk",
+        "audio": "https://archive.org/download/VOA_Africa_20190219_090000/VOA_Africa_20190219_090000.mp3",
+        "cover": "https://archive.org/services/img/VOA_Africa_20190219_090000"
+    },
+    {
+        "id": "27",
+        "title": "VOA [Voice of America] Africa : July 22, 2019 04:00PM-05:00PM EDT",
+        "artist": "Armenian Folk",
+        "audio": "https://archive.org/download/VOA_Africa_20190722_200000/VOA_Africa_20190722_200000.mp3",
+        "cover": "https://archive.org/services/img/VOA_Africa_20190722_200000"
+    },
+    {
+        "id": "28",
+        "title": "Ոչինչ (Ոչինչ) Ոչինչ",
+        "artist": "ZJC",
+        "audio": "https://archive.org/download/6_20260607_20260607_1245/6_20260607_20260607_1245.mp3",
+        "cover": "https://archive.org/services/img/6_20260607_20260607_1245"
+    },
+    {
+        "id": "29",
+        "title": "A Question of Morality",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianAQuestionofMorality/Fr.VazkenMovsesianAQuestionofMorality.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianAQuestionofMorality"
+    },
+    {
+        "id": "30",
+        "title": "Business in and for the Church?",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianBusinessinandfortheChurch_/Fr.VazkenMovsesianBusinessinandfortheChurch_.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianBusinessinandfortheChurch_"
+    },
+    {
+        "id": "31",
+        "title": "The Naughty Show #241: Lahna Turner Wrote a Song About It [2014-09-18]",
+        "artist": "Tin Foil Hat With Sam Tripoli",
+        "audio": "https://archive.org/download/soundcloud-168233720/soundcloud-168233720.mp3",
+        "cover": "https://archive.org/services/img/soundcloud-168233720"
+    },
+    {
+        "id": "32",
+        "title": "Medley (Armenian)",
+        "artist": "Armenian Folk",
+        "audio": "https://archive.org/download/MedleyArmenian/MedleyArmenian.mp3",
+        "cover": "https://archive.org/services/img/MedleyArmenian"
+    },
+    {
+        "id": "33",
+        "title": "Armenian Folk Songs!",
+        "artist": "Государственная Академическая Капелла Армянской ССР",
+        "audio": "https://archive.org/download/lp_armenian-folk-songs_0/lp_armenian-folk-songs_0.mp3",
+        "cover": "https://archive.org/services/img/lp_armenian-folk-songs_0"
+    },
+    {
+        "id": "34",
+        "title": "Rainy Night in the Bell Tent",
+        "artist": "The Dongas Tribe (and friends)",
+        "audio": "https://archive.org/download/rainy_night_in_the_bell_tent/rainy_night_in_the_bell_tent.mp3",
+        "cover": "https://archive.org/services/img/rainy_night_in_the_bell_tent"
+    },
+    {
+        "id": "35",
+        "title": "PipemanRadio Interviews Satellite Citi",
+        "artist": "Pipeman in the Pit",
+        "audio": "https://archive.org/download/x3rxreoewesz30d1sxfmceoxnzp76wm3npb5xia4/x3rxreoewesz30d1sxfmceoxnzp76wm3npb5xia4.mp3",
+        "cover": "https://archive.org/services/img/x3rxreoewesz30d1sxfmceoxnzp76wm3npb5xia4"
+    },
+    {
+        "id": "36",
+        "title": "vib ribbon albulm complet song track",
+        "artist": "mrraptorvert",
+        "audio": "https://archive.org/download/vib-ribbon-albulm-complet-song-track/vib-ribbon-albulm-complet-song-track.mp3",
+        "cover": "https://archive.org/services/img/vib-ribbon-albulm-complet-song-track"
+    },
+    {
+        "id": "37",
+        "title": "White Smoke Tweets",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianWhiteSmokeTweets/Fr.VazkenMovsesianWhiteSmokeTweets.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianWhiteSmokeTweets"
+    },
+    {
+        "id": "38",
+        "title": "VOA [Voice of America] Africa : July 23, 2019 02:00PM-03:00PM EDT",
+        "artist": "Armenian Folk",
+        "audio": "https://archive.org/download/VOA_Africa_20190723_180000/VOA_Africa_20190723_180000.mp3",
+        "cover": "https://archive.org/services/img/VOA_Africa_20190723_180000"
+    },
+    {
+        "id": "39",
+        "title": "Seven Armenian Songs / Six Dances From The Ballet \"Leili And Medzhnun\"",
+        "artist": "Sergei Artyomovich Balasanyan, Moscow Radio Symphony Orchestra, A. Gauk, A. Stasevich",
+        "audio": "https://archive.org/download/lp_seven-armenian-songs-six-dances-from-the_sergei-artyomovich-balasanyan-moscow-radio/lp_seven-armenian-songs-six-dances-from-the_sergei-artyomovich-balasanyan-moscow-radio.mp3",
+        "cover": "https://archive.org/services/img/lp_seven-armenian-songs-six-dances-from-the_sergei-artyomovich-balasanyan-moscow-radio"
+    },
+    {
+        "id": "40",
+        "title": "Caucasian Folk Songs And Dances Volume II: Georgian (Gruzia) And Armenian",
+        "artist": "Various, A. Dolukhanian, A. Gabrielian, Armenian Folk Instrumental Ensemble Of Erevan, Bolshoi Theatre Orchestra, Folk Instrument Ensemble Directed By A. Merangulian, G. Giurdzan, Kh. Neresian, L. Madoian, M. Oganesian, National Armenian Folk Instrumental Ensemble Of Erevan, National Georgian Song And Dance Ensemble Of Tbilisi, O. Akhverdian, Orchestra Under V. Knushevitsky, S. Seyranian, T. Sazandarian, Tbilisi National Symphony Orchestra, V. Kozel, V. Saakian, Zara Dolukhanova",
+        "audio": "https://archive.org/download/lp_caucasian-folk-songs-and-dances-volume_various-a-dolukhanian-a-gabrielian-arme/lp_caucasian-folk-songs-and-dances-volume_various-a-dolukhanian-a-gabrielian-arme.mp3",
+        "cover": "https://archive.org/services/img/lp_caucasian-folk-songs-and-dances-volume_various-a-dolukhanian-a-gabrielian-arme"
+    },
+    {
+        "id": "41",
+        "title": "Changing Perception at Advent",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianChangingPerceptionatAdvent/Fr.VazkenMovsesianChangingPerceptionatAdvent.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianChangingPerceptionatAdvent"
+    },
+    {
+        "id": "42",
+        "title": "VOA [Voice of America] Africa : April 21, 2017 02:00AM-03:00AM EDT",
+        "artist": "Armenian Folk",
+        "audio": "https://archive.org/download/VOA_Africa_20170421_060000/VOA_Africa_20170421_060000.mp3",
+        "cover": "https://archive.org/services/img/VOA_Africa_20170421_060000"
+    },
+    {
+        "id": "43",
+        "title": "Տրակտորով Վարել Եմ Արտը",
+        "artist": "ZJC",
+        "audio": "https://archive.org/download/1_20260606_20260606_1737/1_20260606_20260606_1737.mp3",
+        "cover": "https://archive.org/services/img/1_20260606_20260606_1737"
+    },
+    {
+        "id": "44",
+        "title": "KAZBEK",
+        "artist": "Armenian Folk",
+        "audio": "https://archive.org/download/78_kazbek_gbia0310709a/78_kazbek_gbia0310709a.mp3",
+        "cover": "https://archive.org/services/img/78_kazbek_gbia0310709a"
+    },
+    {
+        "id": "45",
+        "title": "Prejudice Caterpillars Miss the Perfect Game",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianPrejudiceCaterpillarsMissthePerfectGame/Fr.VazkenMovsesianPrejudiceCaterpillarsMissthePerfectGame.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianPrejudiceCaterpillarsMissthePerfectGame"
+    },
+    {
+        "id": "46",
+        "title": "Hallowed Saints: under the Masks",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianHallowedSaints_undertheMasks/Fr.VazkenMovsesianHallowedSaints_undertheMasks.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianHallowedSaints_undertheMasks"
+    },
+    {
+        "id": "47",
+        "title": "Injuries in the Machine",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianInjuriesintheMachine/Fr.VazkenMovsesianInjuriesintheMachine.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianInjuriesintheMachine"
+    },
+    {
+        "id": "48",
+        "title": "Transforming the Heresy Card beyond P-C-O",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianTransformingtheHeresyCardbeyondP-C-O/Fr.VazkenMovsesianTransformingtheHeresyCardbeyondP-C-O.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianTransformingtheHeresyCardbeyondP-C-O"
+    },
+    {
+        "id": "49",
+        "title": "2013 The Year In Review TOPPERS",
+        "artist": "R. Hucek and the artists' whose music is featured",
+        "audio": "https://archive.org/download/2013InReview/2013InReview.mp3",
+        "cover": "https://archive.org/services/img/2013InReview"
+    },
+    {
+        "id": "50",
+        "title": "CUUPS Podcast #29 - June 2015",
+        "artist": "Covenant of UU Pagans CUUPS",
+        "audio": "https://archive.org/download/Covenant_of_UU_Pagans_CUUPS-CUUPS_Podcast_29/Covenant_of_UU_Pagans_CUUPS-CUUPS_Podcast_29.mp3",
+        "cover": "https://archive.org/services/img/Covenant_of_UU_Pagans_CUUPS-CUUPS_Podcast_29"
+    },
+    {
+        "id": "51",
+        "title": "Ecclesiastical-Evolution: Head-Body Coordination",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianEcclesiastical-Evolution_Head-BodyCoordination/Fr.VazkenMovsesianEcclesiastical-Evolution_Head-BodyCoordination.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianEcclesiastical-Evolution_Head-BodyCoordination"
+    },
+    {
+        "id": "52",
+        "title": "Remember 'Current Events'? Did the Church forget?",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianRemember_CurrentEvents__DidtheChurchforget_/Fr.VazkenMovsesianRemember_CurrentEvents__DidtheChurchforget_.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianRemember_CurrentEvents__DidtheChurchforget_"
+    },
+    {
+        "id": "53",
+        "title": "Accordion Noir 2026-04-15: Co-op Radio's Fifty-Second Birthday Time Machine",
+        "artist": "Accordion Noir radio",
+        "audio": "https://archive.org/download/accordion-noir-2026-04-15/accordion-noir-2026-04-15.mp3",
+        "cover": "https://archive.org/services/img/accordion-noir-2026-04-15"
+    },
+    {
+        "id": "54",
+        "title": "Harav Kamin",
+        "artist": "Yenovk Der Hagopian, Sam Haidostian",
+        "audio": "https://archive.org/download/78_harav-kamin_yenovk-der-hagopian-sam-haidostian_gbia0067247h/78_harav-kamin_yenovk-der-hagopian-sam-haidostian_gbia0067247h.mp3",
+        "cover": "https://archive.org/services/img/78_harav-kamin_yenovk-der-hagopian-sam-haidostian_gbia0067247h"
+    },
+    {
+        "id": "55",
+        "title": "SERA (Love Song)",
+        "artist": "LUCY MUGURTICHIAN",
+        "audio": "https://archive.org/download/78_sera-love-song_lucy-mugurtichian_gbia0501308b/78_sera-love-song_lucy-mugurtichian_gbia0501308b.mp3",
+        "cover": "https://archive.org/services/img/78_sera-love-song_lucy-mugurtichian_gbia0501308b"
+    },
+    {
+        "id": "56",
+        "title": "VOA [Voice of America] Africa : November 13, 2019 12:00AM-01:00AM EST",
+        "artist": "Armenian Folk",
+        "audio": "https://archive.org/download/VOA_Africa_20191113_050000/VOA_Africa_20191113_050000.mp3",
+        "cover": "https://archive.org/services/img/VOA_Africa_20191113_050000"
+    },
+    {
+        "id": "57",
+        "title": "Blue Prints in Toronto",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianBluePrintsinToronto/Fr.VazkenMovsesianBluePrintsinToronto.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianBluePrintsinToronto"
+    },
+    {
+        "id": "58",
+        "title": "ShowerThoughts",
+        "artist": "Apricot Jams",
+        "audio": "https://archive.org/download/lluq9yz9lxqoraz7ajvwykjkaxvy5geistz6xkxk/lluq9yz9lxqoraz7ajvwykjkaxvy5geistz6xkxk.mp3",
+        "cover": "https://archive.org/services/img/lluq9yz9lxqoraz7ajvwykjkaxvy5geistz6xkxk"
+    },
+    {
+        "id": "59",
+        "title": "Impulse Buying of Love",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianImpulseBuyingofLove/Fr.VazkenMovsesianImpulseBuyingofLove.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianImpulseBuyingofLove"
+    },
+    {
+        "id": "60",
+        "title": "Evangelizing Apples, Life and Death",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianEvangelizingApples_LifeandDeath/Fr.VazkenMovsesianEvangelizingApples_LifeandDeath.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianEvangelizingApples_LifeandDeath"
+    },
+    {
+        "id": "61",
+        "title": "Living Saints is Living Christ",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianLivingSaintsisLivingChrist/Fr.VazkenMovsesianLivingSaintsisLivingChrist.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianLivingSaintsisLivingChrist"
+    },
+    {
+        "id": "62",
+        "title": "RESUME - EBERHARD WEBER ( 2012 )",
+        "artist": "Gustavo Bustamante Mesa",
+        "audio": "https://archive.org/download/Resume-EberhardWeber2012/Resume-EberhardWeber2012.mp3",
+        "cover": "https://archive.org/services/img/Resume-EberhardWeber2012"
+    },
+    {
+        "id": "63",
+        "title": "VOA [Voice of America] Africa : July 21, 2018 04:00AM-05:00AM EDT",
+        "artist": "Armenian Folk",
+        "audio": "https://archive.org/download/VOA_Africa_20180721_080000/VOA_Africa_20180721_080000.mp3",
+        "cover": "https://archive.org/services/img/VOA_Africa_20180721_080000"
+    },
+    {
+        "id": "64",
+        "title": "New Media to Domestic Violence",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianNewMediatoDomesticViolence/Fr.VazkenMovsesianNewMediatoDomesticViolence.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianNewMediatoDomesticViolence"
+    },
+    {
+        "id": "65",
+        "title": "The Traveling Genocide",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianTheTravelingGenocide/Fr.VazkenMovsesianTheTravelingGenocide.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianTheTravelingGenocide"
+    },
+    {
+        "id": "66",
+        "title": "VOA [Voice of America] Africa : May 01, 2019 11:00PM-12:00AM EDT",
+        "artist": "Armenian Folk",
+        "audio": "https://archive.org/download/VOA_Africa_20190502_030000/VOA_Africa_20190502_030000.mp3",
+        "cover": "https://archive.org/services/img/VOA_Africa_20190502_030000"
+    },
+    {
+        "id": "67",
+        "title": "Mundofonias 2018064",
+        "artist": "Mundofonías, Juan Antonio Vázquez, Araceli Tzigane",
+        "audio": "https://archive.org/download/Mundofonias2018064/Mundofonias2018064.mp3",
+        "cover": "https://archive.org/services/img/Mundofonias2018064"
+    },
+    {
+        "id": "68",
+        "title": "DANCE OF ERIVAN",
+        "artist": "Armenian Folk",
+        "audio": "https://archive.org/download/78_dance-of-erivan_gbia0310709b/78_dance-of-erivan_gbia0310709b.mp3",
+        "cover": "https://archive.org/services/img/78_dance-of-erivan_gbia0310709b"
+    },
+    {
+        "id": "69",
+        "title": "Barking at Caravans",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianBarkingatCaravans/Fr.VazkenMovsesianBarkingatCaravans.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianBarkingatCaravans"
+    },
+    {
+        "id": "70",
+        "title": "VOA [Voice of America] Africa : February 19, 2019 03:00PM-04:00PM EST",
+        "artist": "Armenian Folk",
+        "audio": "https://archive.org/download/VOA_Africa_20190219_200000/VOA_Africa_20190219_200000.mp3",
+        "cover": "https://archive.org/services/img/VOA_Africa_20190219_200000"
+    },
+    {
+        "id": "71",
+        "title": "ALBA MARYAM Project ARMENIAN FOLK SONG YASEMIN SANNINO Musica Antiqua Latina & Yasemin Sannino",
+        "artist": "Armenian Folk",
+        "audio": "https://archive.org/download/albamaryam-yaseminsannino/albamaryam-yaseminsannino.mp3",
+        "cover": "https://archive.org/services/img/albamaryam-yaseminsannino"
+    },
+    {
+        "id": "72",
+        "title": "Լեռների Մեջ Կա Պայքար",
+        "artist": "ZJC",
+        "audio": "https://archive.org/download/20260601_20260601_1834/20260601_20260601_1834.mp3",
+        "cover": "https://archive.org/services/img/20260601_20260601_1834"
+    },
+    {
+        "id": "73",
+        "title": "Richard Land - Baptist God Eternal Election Election. God",
+        "artist": "Best Private Christian Universities in Tennessee | Baptist College | Union University",
+        "audio": "https://archive.org/download/Best_Private_Christian_Univers-100410_RichardLand/Best_Private_Christian_Univers-100410_RichardLand.mp3",
+        "cover": "https://archive.org/services/img/Best_Private_Christian_Univers-100410_RichardLand"
+    },
+    {
+        "id": "74",
+        "title": "VOA1 [Voice of America] - The Hits : February 27, 2019 08:00AM-09:00AM EST",
+        "artist": "Armenian Folk",
+        "audio": "https://archive.org/download/VOA1_The_Hits_20190227_130000/VOA1_The_Hits_20190227_130000.mp3",
+        "cover": "https://archive.org/services/img/VOA1_The_Hits_20190227_130000"
+    },
+    {
+        "id": "75",
+        "title": "Dzovig - Shoghkame (Audio)",
+        "artist": "Little Seas Enterprises, Inc.",
+        "audio": "https://archive.org/download/dzovig-shoghkame-audio/dzovig-shoghkame-audio.mp3",
+        "cover": "https://archive.org/services/img/dzovig-shoghkame-audio"
+    },
+    {
+        "id": "76",
+        "title": "VOA1 [Voice of America] - The Hits : February 27, 2019 12:00PM-01:00PM EST",
+        "artist": "Armenian Folk",
+        "audio": "https://archive.org/download/VOA1_The_Hits_20190227_170000/VOA1_The_Hits_20190227_170000.mp3",
+        "cover": "https://archive.org/services/img/VOA1_The_Hits_20190227_170000"
+    },
+    {
+        "id": "77",
+        "title": "VOA [Voice of America] Africa : October 12, 2019 12:00AM-01:00AM EDT",
+        "artist": "Armenian Folk",
+        "audio": "https://archive.org/download/VOA_Africa_20191012_040000/VOA_Africa_20191012_040000.mp3",
+        "cover": "https://archive.org/services/img/VOA_Africa_20191012_040000"
+    },
+    {
+        "id": "78",
+        "title": "Start Sweating: It's NOT all small Stuff",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianStartSweating_It_sNOTallsmallStuff/Fr.VazkenMovsesianStartSweating_It_sNOTallsmallStuff.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianStartSweating_It_sNOTallsmallStuff"
+    },
+    {
+        "id": "79",
+        "title": "Smokey Bear Radio Spots (1963)",
+        "artist": "Ad Council",
+        "audio": "https://archive.org/download/1-a.-the-crying-trees/1-a.-the-crying-trees.mp3",
+        "cover": "https://archive.org/services/img/1-a.-the-crying-trees"
+    },
+    {
+        "id": "80",
+        "title": "Born Somewhere (Né Quelque Part): A Global Collaboration",
+        "artist": "Kathleen Martin",
+        "audio": "https://archive.org/download/Born_Somewhere_N_Quelque_Part_A_Global_Collaboration-19589/Born_Somewhere_N_Quelque_Part_A_Global_Collaboration-19589.mp3",
+        "cover": "https://archive.org/services/img/Born_Somewhere_N_Quelque_Part_A_Global_Collaboration-19589"
+    },
+    {
+        "id": "81",
+        "title": "Գիշեր Էր Կես (ելա Քնից)",
+        "artist": "ZJC",
+        "audio": "https://archive.org/download/2_20260606_20260606_1540/2_20260606_20260606_1540.mp3",
+        "cover": "https://archive.org/services/img/2_20260606_20260606_1540"
+    },
+    {
+        "id": "82",
+        "title": "«Այն Դողում Է, Փշրվում Է, Ընկնում Է»",
+        "artist": "ZJC",
+        "audio": "https://archive.org/download/2_20260602_20260602_1856/2_20260602_20260602_1856.mp3",
+        "cover": "https://archive.org/services/img/2_20260602_20260602_1856"
+    },
+    {
+        "id": "83",
+        "title": "Լե, Լե, Լե, Լե, Լե, Լե",
+        "artist": "ZJC",
+        "audio": "https://archive.org/download/2_20260603_20260603_2342/2_20260603_20260603_2342.mp3",
+        "cover": "https://archive.org/services/img/2_20260603_20260603_2342"
+    },
+    {
+        "id": "84",
+        "title": "Սիրելիս, Սիրելիս",
+        "artist": "ZJC",
+        "audio": "https://archive.org/download/5_20260605_202606/5_20260605_202606.mp3",
+        "cover": "https://archive.org/services/img/5_20260605_202606"
+    },
+    {
+        "id": "85",
+        "title": "Working the Streets with Love",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianWorkingtheStreetswithLove/Fr.VazkenMovsesianWorkingtheStreetswithLove.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianWorkingtheStreetswithLove"
+    },
+    {
+        "id": "86",
+        "title": "VOA [Voice of America] Africa : July 22, 2018 10:00AM-11:00AM EDT",
+        "artist": "Armenian Folk",
+        "audio": "https://archive.org/download/VOA_Africa_20180722_140000/VOA_Africa_20180722_140000.mp3",
+        "cover": "https://archive.org/services/img/VOA_Africa_20180722_140000"
+    },
+    {
+        "id": "87",
+        "title": "524 Kingdom Postponed (Troy Sallinger)",
+        "artist": "Restitutio",
+        "audio": "https://archive.org/download/Restitutio-524_kingdom_postponed_troy_sallinger/Restitutio-524_kingdom_postponed_troy_sallinger.mp3",
+        "cover": "https://archive.org/services/img/Restitutio-524_kingdom_postponed_troy_sallinger"
+    },
+    {
+        "id": "88",
+        "title": "Twinkies in Paradise",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianTwinkiesinParadise/Fr.VazkenMovsesianTwinkiesinParadise.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianTwinkiesinParadise"
+    },
+    {
+        "id": "89",
+        "title": "Unique in Every Way",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianUniqueinEveryWay/Fr.VazkenMovsesianUniqueinEveryWay.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianUniqueinEveryWay"
+    },
+    {
+        "id": "90",
+        "title": "From Kings to Humanity",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianFromKingstoHumanity/Fr.VazkenMovsesianFromKingstoHumanity.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianFromKingstoHumanity"
+    },
+    {
+        "id": "91",
+        "title": "Avoiding Collisions by Melding",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianAvoidingCollisionsbyMelding/Fr.VazkenMovsesianAvoidingCollisionsbyMelding.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianAvoidingCollisionsbyMelding"
+    },
+    {
+        "id": "92",
+        "title": "Activism during a Weekend for Society",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianActivismduringaWeekendforSociety/Fr.VazkenMovsesianActivismduringaWeekendforSociety.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianActivismduringaWeekendforSociety"
+    },
+    {
+        "id": "93",
+        "title": "Setting the Oven at New Year",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianSettingtheOvenatNewYear/Fr.VazkenMovsesianSettingtheOvenatNewYear.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianSettingtheOvenatNewYear"
+    },
+    {
+        "id": "94",
+        "title": "The New Media Lent is Just Beginning",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianTheNewMediaLentisJustBeginning/Fr.VazkenMovsesianTheNewMediaLentisJustBeginning.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianTheNewMediaLentisJustBeginning"
+    },
+    {
+        "id": "95",
+        "title": "Dreaming Peace w/out Violence",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianDreamingPeacew_outViolence/Fr.VazkenMovsesianDreamingPeacew_outViolence.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianDreamingPeacew_outViolence"
+    },
+    {
+        "id": "96",
+        "title": "Yerevan (National Armenian Folk Song & Dance Ensemble)",
+        "artist": "Aram Khachaturian, National Opera And Ballet Orchestra",
+        "audio": "https://archive.org/download/lp_yerevan-national-armenian-folk-song-dance_aram-khachaturian-national-opera-and-balle/lp_yerevan-national-armenian-folk-song-dance_aram-khachaturian-national-opera-and-balle.mp3",
+        "cover": "https://archive.org/services/img/lp_yerevan-national-armenian-folk-song-dance_aram-khachaturian-national-opera-and-balle"
+    },
+    {
+        "id": "97",
+        "title": "Music Of The World Istanbul April 26 2025",
+        "artist": "Kutay Derin Kugay",
+        "audio": "https://archive.org/download/music-of-the-world-istanbul-april-26-2025/music-of-the-world-istanbul-april-26-2025.mp3",
+        "cover": "https://archive.org/services/img/music-of-the-world-istanbul-april-26-2025"
+    },
+    {
+        "id": "98",
+        "title": "Can't Avoid that Cross",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianCan_tAvoidthatCross/Fr.VazkenMovsesianCan_tAvoidthatCross.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianCan_tAvoidthatCross"
+    },
+    {
+        "id": "99",
+        "title": "Endings: Death and Defrockery",
+        "artist": "Fr. Vazken Movsesian",
+        "audio": "https://archive.org/download/Fr.VazkenMovsesianEndings_DeathandDefrockery/Fr.VazkenMovsesianEndings_DeathandDefrockery.mp3",
+        "cover": "https://archive.org/services/img/Fr.VazkenMovsesianEndings_DeathandDefrockery"
+    },
+    {
+        "id": "100",
+        "title": "Ա՜յ Աղբյուր Ո՞ւր Ես Գնում",
+        "artist": "ZJC",
+        "audio": "https://archive.org/download/2_20260604_20260604_1553/2_20260604_20260604_1553.mp3",
+        "cover": "https://archive.org/services/img/2_20260604_20260604_1553"
+    }
+]
